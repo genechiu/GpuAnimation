@@ -4,4 +4,4 @@
 3. 提供通过fbx导出动画数据的工具和prefab，和fbx使用保持一致
 4. 提供最基础的动画播放组件，以及武器等挂件支持
 
-![Alt text](./Snapshots/test.png)
+![Snapshot](./Snapshots/test.png)
